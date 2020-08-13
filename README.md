@@ -1,1 +1,1 @@
-This is my version of the Super Duper Drive project in Udacity's Java Web Developer Nanodegree
+This is my version of the Super Duper Drive project in Udacity's Java Web Developer Nanodegree. The upstream version can be found at https://github.com/udacity/nd035-c1-spring-boot-basics-project-starter
